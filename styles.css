@@ -1,0 +1,32 @@
+.container{
+  width: 65vw;
+  margin: auto;
+   padding: 40px;
+}
+img{
+width: 20px;
+height: 20px;
+}
+
+.positiveVal{
+  color: rgb(31, 225, 10);
+}
+.negetiveVal{
+  color: rgb(255, 0, 0);
+}
+table{
+  width: 100%;
+  background-color : black;
+  color: white;
+  height: 500px;
+  border-collapse: collapse;
+
+}
+
+tr{
+  border-bottom: 1px solid white;
+  height: 55px;
+  text-align: left;  
+  
+  justify-content: space-around;
+}
